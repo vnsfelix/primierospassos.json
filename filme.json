@@ -1,0 +1,8 @@
+{
+  "filme": {
+    "titulo": "Gente Grande",
+    "ano": 2010,
+    "diretor": "Dennis Dugan",
+    "genero": ["Comédia", "Buddy"]
+  }
+}
