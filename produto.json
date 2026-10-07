@@ -1,7 +1,7 @@
 {
     "produto": {
         "nome": "Playstation 5",
-        "preco": 3.800,
+        "preco": 3800,
         "quantidade": null,
         "disponivel": false
     }
